@@ -1,0 +1,13 @@
+/* General */
+* {
+    box-sizing: border-box;
+}
+
+
+/* Navbar */
+
+.navbar-brand {
+    background: #4aaaa5;
+    padding: 2rem;
+    font-family: cursive;
+}
