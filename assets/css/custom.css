@@ -11,3 +11,19 @@
     padding: 2rem;
     font-family: cursive;
 }
+
+/* Body */
+body {
+    background: silver;
+}
+
+/* Main Container */
+#main-container {
+    background: white;
+}
+
+/* Footer */
+/* .card {
+    position: absolute;
+    bottom: 0;
+} */
